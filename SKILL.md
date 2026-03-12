@@ -1,3 +1,8 @@
+---
+name: aicre8
+description: AI website builder API. Create, edit, and deploy full-stack websites from text prompts. Use when building websites, landing pages, portfolios, token sites, or prototypes. Generates React + Tailwind sites with permanent hosting at {slug}.aicre8.app.
+---
+
 # aicre8.dev
 
 > AI website builder. Create, edit, preview, and publish websites from a single prompt. Ships full-stack sites with hosting included.
